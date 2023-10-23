@@ -1,0 +1,10 @@
+
+.item-border{
+    border: 10px solid bisque;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

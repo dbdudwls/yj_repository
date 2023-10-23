@@ -1,0 +1,30 @@
+/*
+containner
+btn-containner
+board-containner
+board-item
+*/
+
+.containner .btn-containner, .board-containner, .board-item{
+    border: 1px solid black;
+}
+
+.containner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-containner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.board-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
