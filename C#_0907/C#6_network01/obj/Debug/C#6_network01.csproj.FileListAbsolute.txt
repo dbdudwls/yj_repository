@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\bin\Debug\C#6_network01.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\bin\Debug\C#6_network01.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\bin\Debug\C#6_network01.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\obj\Debug\C#6_network01.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\obj\Debug\C#6_network01.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\obj\Debug\C#6_network01.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_network01\obj\Debug\C#6_network01.pdb

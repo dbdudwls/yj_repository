@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\bin\Debug\C#6_TCPserver.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\bin\Debug\C#6_TCPserver.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\bin\Debug\C#6_TCPserver.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\obj\Debug\C#6_TCPserver.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\obj\Debug\C#6_TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\obj\Debug\C#6_TCPserver.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPserver\obj\Debug\C#6_TCPserver.pdb

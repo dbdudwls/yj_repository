@@ -1,0 +1,6 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\bin\Debug\lib2.dll
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\bin\Debug\lib2.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\obj\Debug\lib2.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\obj\Debug\lib2.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\obj\Debug\lib2.dll
+C:\Users\GRiDA_LAB00\Desktop\C#\lib2\obj\Debug\lib2.pdb

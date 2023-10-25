@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\obj\Debug\C#8_var.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\obj\Debug\C#8_var.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\bin\Debug\C#8_var.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\bin\Debug\C#8_var.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\bin\Debug\C#8_var.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\obj\Debug\C#8_var.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_var\obj\Debug\C#8_var.pdb

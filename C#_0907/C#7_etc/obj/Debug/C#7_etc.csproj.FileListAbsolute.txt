@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\bin\Debug\C#7_etc.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\bin\Debug\C#7_etc.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\bin\Debug\C#7_etc.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\obj\Debug\C#7_etc.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\obj\Debug\C#7_etc.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\obj\Debug\C#7_etc.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#7_etc\obj\Debug\C#7_etc.pdb

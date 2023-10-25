@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\bin\Debug\C#_delegate_event.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\bin\Debug\C#_delegate_event.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\bin\Debug\C#_delegate_event.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\obj\Debug\C#_delegate_event.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\obj\Debug\C#_delegate_event.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\obj\Debug\C#_delegate_event.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_event\obj\Debug\C#_delegate_event.pdb

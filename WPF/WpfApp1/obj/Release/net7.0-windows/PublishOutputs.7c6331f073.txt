@@ -1,0 +1,5 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\WPF\WpfApp1\bin\Release\net7.0-windows\app.publish\WpfApp1.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\WPF\WpfApp1\bin\Release\net7.0-windows\app.publish\WpfApp1.dll
+C:\Users\GRiDA_LAB00\Desktop\C#\WPF\WpfApp1\bin\Release\net7.0-windows\app.publish\WpfApp1.deps.json
+C:\Users\GRiDA_LAB00\Desktop\C#\WPF\WpfApp1\bin\Release\net7.0-windows\app.publish\WpfApp1.runtimeconfig.json
+C:\Users\GRiDA_LAB00\Desktop\C#\WPF\WpfApp1\bin\Release\net7.0-windows\app.publish\WpfApp1.pdb

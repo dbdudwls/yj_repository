@@ -1,0 +1,2 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\study05_01\study05\obj\Debug\study05.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\study05_01\study05\obj\Debug\study05.csproj.CoreCompileInputs.cache

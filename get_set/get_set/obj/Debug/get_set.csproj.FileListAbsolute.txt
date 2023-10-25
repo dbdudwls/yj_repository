@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\bin\Debug\get_set.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\bin\Debug\get_set.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\bin\Debug\get_set.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\obj\Debug\get_set.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\obj\Debug\get_set.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\obj\Debug\get_set.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\get_set\get_set\obj\Debug\get_set.pdb

@@ -1,0 +1,10 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\bin\Debug\exerciseGui.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\bin\Debug\exerciseGui.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\bin\Debug\exerciseGui.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.Form1.resources
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.Properties.Resources.resources
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.csproj.GenerateResource.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\gui\exerciseGui\obj\Debug\exerciseGui.pdb

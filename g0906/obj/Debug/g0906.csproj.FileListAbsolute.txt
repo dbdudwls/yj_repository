@@ -1,0 +1,10 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\bin\Debug\g0906.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\bin\Debug\g0906.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\bin\Debug\g0906.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\obj\Debug\g0906.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\obj\Debug\g0906.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\obj\Debug\g0906.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\obj\Debug\g0906.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\bin\Debug\lib2.dll
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\bin\Debug\lib2.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\g0906\obj\Debug\g0906.csproj.CopyComplete

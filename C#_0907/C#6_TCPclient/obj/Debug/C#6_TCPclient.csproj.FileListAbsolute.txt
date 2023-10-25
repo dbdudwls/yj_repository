@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\bin\Debug\C#6_TCPclient.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\bin\Debug\C#6_TCPclient.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\bin\Debug\C#6_TCPclient.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\obj\Debug\C#6_TCPclient.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\obj\Debug\C#6_TCPclient.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\obj\Debug\C#6_TCPclient.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0907\C#6_TCPclient\obj\Debug\C#6_TCPclient.pdb

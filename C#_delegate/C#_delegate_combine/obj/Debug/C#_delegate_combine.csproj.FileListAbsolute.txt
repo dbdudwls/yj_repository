@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\bin\Debug\C#_delegate_combine.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\bin\Debug\C#_delegate_combine.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\bin\Debug\C#_delegate_combine.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\obj\Debug\C#_delegate_combine.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\obj\Debug\C#_delegate_combine.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\obj\Debug\C#_delegate_combine.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_delegate\C#_delegate_combine\obj\Debug\C#_delegate_combine.pdb

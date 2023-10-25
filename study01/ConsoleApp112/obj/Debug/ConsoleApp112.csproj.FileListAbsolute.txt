@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\bin\Debug\ConsoleApp112.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\bin\Debug\ConsoleApp112.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\bin\Debug\ConsoleApp112.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\obj\Debug\ConsoleApp112.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\obj\Debug\ConsoleApp112.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\obj\Debug\ConsoleApp112.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\study01\ConsoleApp112\obj\Debug\ConsoleApp112.pdb

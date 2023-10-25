@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\bin\Debug\study01.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\bin\Debug\study01.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\bin\Debug\study01.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\obj\Debug\study01.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\obj\Debug\study01.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\obj\Debug\study01.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_lambda\study01\obj\Debug\study01.pdb

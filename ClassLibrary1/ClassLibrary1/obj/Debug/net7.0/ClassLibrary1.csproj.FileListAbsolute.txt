@@ -1,0 +1,4 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRiDA_LAB00\Desktop\C#\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\GRiDA_LAB00\Desktop\C#\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache

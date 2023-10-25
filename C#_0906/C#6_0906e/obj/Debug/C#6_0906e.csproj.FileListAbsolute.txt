@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\bin\Debug\C#6_0906e.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\bin\Debug\C#6_0906e.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\bin\Debug\C#6_0906e.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\obj\Debug\C#6_0906e.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\obj\Debug\C#6_0906e.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\obj\Debug\C#6_0906e.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#6_0906e\obj\Debug\C#6_0906e.pdb

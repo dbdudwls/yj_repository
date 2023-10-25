@@ -1,0 +1,7 @@
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\bin\Debug\study1.exe.config
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\bin\Debug\study1.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\bin\Debug\study1.pdb
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\obj\Debug\study1.csproj.AssemblyReference.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\obj\Debug\study1.csproj.CoreCompileInputs.cache
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\obj\Debug\study1.exe
+C:\Users\GRiDA_LAB00\Desktop\C#\C#_0908\C#8_LINQ\study1\obj\Debug\study1.pdb
