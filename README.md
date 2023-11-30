@@ -1,2 +1,4 @@
 # yj_repository
-main branch
+
+
+Have C#, React, Python, Spring Project
