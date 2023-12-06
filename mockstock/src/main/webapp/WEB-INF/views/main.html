@@ -1,12 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+    <meta charset="UTF-8">
+    <title>Stock Info</title>
 </head>
 <body>
-
-	<h1>hello 안녕하세요</h1>
-
+    <h1>Stock Information</h1>
+    <div th:if="${stockInfo}">
+        <pre th:text="${stockInfo}"></pre>
+    </div>
+    <div th:unless="${stockInfo}">
+        <p>No stock information available.</p>
+    </div>
 </body>
 </html>
